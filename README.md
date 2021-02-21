@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taeyang97)](https://github.com/anuraghazra/github-readme-stats)
-- [이력서(Resume)](https://www.notion.so/Tae-yang-Kim-3b63c8c03875476780f369773b066724)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://toitoitoi79.tistory.com/](https://blog.naver.com/zlaxodid1)
+[이력서(Resume)](https://www.notion.so/Tae-yang-Kim-3b63c8c03875476780f369773b066724)
 
 <!--
 **taeyang97/taeyang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
