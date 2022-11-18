@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- - [이력서(Resume)](https://www.notion.so/Tae-yang-Kim-3b63c8c03875476780f369773b066724) -->
+[이력서(Resume)](https://www.notion.so/Tae-yang-Kim-3b63c8c03875476780f369773b066724)
 
 <!--
 **taeyang97/taeyang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
